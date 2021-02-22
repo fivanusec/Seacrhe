@@ -1,4 +1,4 @@
-# Seacrhe
+# Searche
 
 Simple search script that helps you find documents and things in your linux home environment.
 This is just a simple C script that I created while I was bored in quarantine. 
